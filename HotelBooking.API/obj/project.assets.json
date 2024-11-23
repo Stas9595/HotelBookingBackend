@@ -460,27 +460,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\stasg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\HotelBooking\\HotelBooking.API\\HotelBooking.API.csproj",
+      "projectUniqueName": "C:\\Users\\stasg\\RiderProjects\\HotelBookingBackend\\HotelBooking.API\\HotelBooking.API.csproj",
       "projectName": "HotelBooking.API",
-      "projectPath": "C:\\Users\\user\\RiderProjects\\HotelBooking\\HotelBooking.API\\HotelBooking.API.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\RiderProjects\\HotelBooking\\HotelBooking.API\\obj\\",
+      "projectPath": "C:\\Users\\stasg\\RiderProjects\\HotelBookingBackend\\HotelBooking.API\\HotelBooking.API.csproj",
+      "packagesPath": "C:\\Users\\stasg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stasg\\RiderProjects\\HotelBookingBackend\\HotelBooking.API\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\stasg\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -493,6 +490,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -527,7 +529,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
